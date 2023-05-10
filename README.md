@@ -1,2 +1,3 @@
 # Andrada-Candies
-A candy store project
+A candy store project.
+Completed using MERN-stack.
